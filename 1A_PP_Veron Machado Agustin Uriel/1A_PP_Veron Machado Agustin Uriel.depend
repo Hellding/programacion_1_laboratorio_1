@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1507128613 source:d:\1a_pp_veron machado agustin uriel\1a_pp_veron machado agustin uriel\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1507127176 d:\1a_pp_veron machado agustin uriel\1a_pp_veron machado agustin uriel\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507128845 source:d:\1a_pp_veron machado agustin uriel\1a_pp_veron machado agustin uriel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1507556668 source:c:\users\alumno\desktop\1a_pp_veron machado agustin uriel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1507129218 c:\users\alumno\desktop\1a_pp_veron machado agustin uriel\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507555562 source:c:\users\alumno\desktop\1a_pp_veron machado agustin uriel\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1507675149 source:c:\users\swordhell\desktop\1a_pp_veron machado agustin uriel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1507675149 c:\users\swordhell\desktop\1a_pp_veron machado agustin uriel\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507675174 source:c:\users\swordhell\desktop\1a_pp_veron machado agustin uriel\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
